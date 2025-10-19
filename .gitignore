@@ -1,0 +1,20 @@
+﻿# Node / Next.js
+frontend/node_modules/
+frontend/.next/
+frontend/.vercel/
+frontend/.turbo/
+frontend/.env*
+npm-debug.log*
+
+# Python
+backend/venv/
+**/__pycache__/
+**/.pytest_cache/
+*.pyc
+*.pyo
+
+# Misc
+.DS_Store
+Thumbs.db
+*.log
+.swp
